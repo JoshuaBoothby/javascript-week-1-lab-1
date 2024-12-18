@@ -29,3 +29,5 @@ else if (operation === "/") {
 else {
     result = "Invalid operation!";
 }
+
+alert(`The result is ${result}`);
